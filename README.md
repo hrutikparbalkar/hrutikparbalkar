@@ -39,26 +39,6 @@
 | 🩺 **Doctor Appointment Web App** | A MERN-based app for booking and managing doctor appointments. | React, Node.js, MongoDB, Express |
 | 📂 **Document Management System** | Admin can upload documents; users can view notices. Built using Firebase. | React, Tailwind, Firebase |
 | 📊 **Attainment Calculator** | Calculates course outcome attainment from student marks. | HTML, JS, Excel Formulas |
-| 📬 **Email Sender with Attachments** | Admin can send documents/images to selected users via Firebase. | React, Firebase, Node.js |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrutik&show_icons=true&theme=tokyonight" alt="Hrutik's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 🌗 GitHub Profile Mode
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hrutik&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-[![Profile Views](https://komarev.com/ghpvc/?username=hrutik&color=blueviolet&style=flat)](https://github.com/hrutik)
-
----
 
 ### 🔗 Connect with Me
 
