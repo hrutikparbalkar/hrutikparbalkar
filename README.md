@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hrutik Parbalkar</h1>
-<h3 align="center">💻 Full Stack Developer | MERN | Passionate about building useful web apps</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js;MongoDB+%7C+MySQL;Clean+Code+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **advanced backend, TypeScript, and system design**
+- 🌱 I’m currently learning **TypeScript, system design, and advanced backend**
 - 👨‍💻 I love building web applications from scratch using the **MERN stack**
 - 🔍 Looking for: **Full-stack developer role / Internship**
 - 💬 Ask me about: **React, Node.js, MongoDB, MySQL, Tailwind CSS**
@@ -30,13 +33,31 @@
 
 ---
 
+### 🚀 Projects
+
+| Name | Description | Tech |
+|------|-------------|------|
+| 🩺 **Doctor Appointment Web App** | A MERN-based app for booking and managing doctor appointments. | React, Node.js, MongoDB, Express |
+| 📂 **Document Management System** | Admin can upload documents; users can view notices. Built using Firebase. | React, Tailwind, Firebase |
+| 📊 **Attainment Calculator** | Calculates course outcome attainment from student marks. | HTML, JS, Excel Formulas |
+| 📬 **Email Sender with Attachments** | Admin can send documents/images to selected users via Firebase. | React, Firebase, Node.js |
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrutik&show_icons=true&theme=radical" alt="Hrutik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrutik&show_icons=true&theme=tokyonight" alt="Hrutik's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutik&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### 🌗 GitHub Profile Mode
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hrutik&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+[![Profile Views](https://komarev.com/ghpvc/?username=hrutik&color=blueviolet&style=flat)](https://github.com/hrutik)
 
 ---
 
@@ -47,4 +68,4 @@
 
 ---
 
-> 🚀 “The best way to learn is to build.” — Happy coding!
+> 🚀 “Build. Break. Fix. Learn.” — Keep shipping and keep growing!
