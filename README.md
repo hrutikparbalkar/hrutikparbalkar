@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hrutik Parbalkar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js;MongoDB+%7C+MySQL;Clean+Code+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;JavaScript+%7C+React+%7C+Node.js;MongoDB+%7C+MySQL;Clean+Code+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **TypeScript, system design, and advanced backend**
 - 👨‍💻 I love building web applications from scratch using the **MERN stack**
 - 🔍 Looking for: **Full-stack developer role / Internship**
 - 💬 Ask me about: **React, Node.js, MongoDB, MySQL, Tailwind CSS**
