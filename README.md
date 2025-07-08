@@ -11,7 +11,7 @@
 - 👨‍💻 I love building web applications from scratch using the **MERN stack**
 - 🔍 Looking for: **Full-stack developer role / Internship**
 - 💬 Ask me about: **React, Node.js, MongoDB, MySQL, Tailwind CSS**
-- 📫 How to reach me: **hrutikparbalkar@email.com**
+- 📫 How to reach me: **hrutik391@email.com**
 - ⚡ Fun fact: I enjoy turning coffee ☕ into clean, scalable code.
 
 ---
@@ -43,7 +43,7 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrutikparbalkar/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hrutik](https://github.com/hrutikparbalkar))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hrutikparbalkar))
 
 ---
 
